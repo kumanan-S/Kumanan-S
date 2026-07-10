@@ -1,16 +1,47 @@
-## Hi there 👋
+## Hi there 👋I'm Kumanan
+Software Developer | Full-Stack Developer | Problem Solver
 
-<!--
-**kumanan-S/Kumanan-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer who enjoys building scalable web applications and learning modern technologies. I enjoy solving real-world problems through clean, maintainable code and continuously improving my technical skills.
 
-Here are some ideas to get you started:
+# About Me
+💼 Seeking opportunities as a Software Developer / Full-Stack Developer
+🎓 Strong interest in Web Development, Cloud, and AI
+🌱 Currently learning System Design, Data Structure and GenAI 
+🚀 Passionate about writing clean, efficient, and scalable code
+🤝 Open to collaborating on open-source projects
+📫 Reach me: skumanan9@email.com
+🌍 Portfolio:<!-- https://yourportfolio.com -->
+💼 LinkedIn: www.linkedin.com/in/kumanan-s
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Technical Skills
+# Languages
+Java
+JavaScript
+TypeScript
+Python
+MySQL
+
+# Frontend
+React
+HTML5
+CSS3
+Tailwind CSS
+
+# Backend
+Node.js
+Express.js
+REST APIs 
+
+# Database
+MySQL
+PostgreSQL
+MongoDB
+
+# Tools
+VS Code
+IntelliJ IDEA
+Postman
+Git
+GitHub
+
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
