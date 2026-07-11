@@ -6,14 +6,14 @@
 <h2>About Me</h2>
 <p>💼 Seeking opportunities as a Software Developer / Full-Stack Developer </p>
 <p>🎓 Strong interest in Web Development, Cloud, and AI</p> 
-<p>🌱 Currently learning System Design, Data Structure and GenAI</p> <br>
+<p>🌱 Currently learning System Design, Data Structure and GenAI</p>
 <p>🚀 Passionate about writing clean, efficient, and scalable code</p> <br>
 
 <div class="connect">
-      🌍<h3>Let's connect</h3>
-        <button> <a href="skumanan9@email.com">Reach me: </a> </button><br>
-        <button> <a href=" ">Portfolio</a> </button><br>
-        <button> <a hred="LinkedIn: www.linkedin.com/in/kumanan-s">LinkedIn</a> </button>
+<h3>🌍Let's connect</h3>
+        <button style="bg-color:green"> <a href="skumanan9@email.com">Reach me: </a> </button><br>
+        <button style="bg-color:green"> <a href=" ">Portfolio</a> </button><br>
+        <button style="bg-color:blue"> <a hred="LinkedIn: www.linkedin.com/in/kumanan-s">LinkedIn</a> </button>
 </div> <br>
 <hr style="border:solid black;">
 <h3>Tech Stack & Ecosystem</h3>
