@@ -22,7 +22,7 @@ Python
 MySQL
 
 # Frontend
-React
+React      
 HTML5
 CSS3
 Tailwind CSS
