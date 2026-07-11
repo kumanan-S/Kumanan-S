@@ -1,11 +1,11 @@
 ## Hi there 👋I'm Kumanan
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5B00F7&width=435&lines=Software+Developer+;Full+Stack+Developer+;Problem+Solver" alt="Typing SVG" /></a> <br>
-<p>  I'm a passionate software developer who enjoys building scalable web applications and learning modern technologies. I enjoy solving real-world problems through clean, maintainable code and continuously improving my technical skills.
+<p>I'm a passionate software developer who enjoys building scalable web applications and learning modern technologies. I enjoy solving real-world problems through clean, maintainable code and continuously improving my technical skills.
 </p> 
 
 <h2>About Me</h2>
-<p>💼 Seeking opportunities as a Software Developer / Full-Stack Developer </p><br>
-<p>🎓 Strong interest in Web Development, Cloud, and AI</p> <br>
+<p>💼 Seeking opportunities as a Software Developer / Full-Stack Developer </p>
+<p>🎓 Strong interest in Web Development, Cloud, and AI</p> 
 <p>🌱 Currently learning System Design, Data Structure and GenAI</p> <br>
 <p>🚀 Passionate about writing clean, efficient, and scalable code</p> <br>
 
@@ -15,7 +15,7 @@
         <button> <a href=" ">Portfolio</a> </button><br>
         <button> <a hred="LinkedIn: www.linkedin.com/in/kumanan-s">LinkedIn</a> </button>
 </div> <br>
-<hr style="color:black; border:solid;">
+<hr style="border:solid black;">
 <h3>Tech Stack & Ecosystem</h3>
 <h4>Languages & Frontend</h4>
  <a href="https://skillicons.dev">
